@@ -1,1 +1,2 @@
-# KB_Chain_Motor
+# KB-Motor-KidBright32
+Kidbright Chain 2-CH 1A DC Motor Driver is a board for two small DC motor motors. The I2C mode supports up to 8 address settings. The Kidbright Chain 2-CH 1A DC Motor Driver can control the speed and direction of rotation of the DC meter using the DRV8830 IC. Have the ability to drive The DC Motor Driver has been developed to meet the needs of a compact, compact design. Easy operation and durability by the Kidbright Chain 2-CH 1A DC Motor Driver is ideal for students or beginners to fabricate robots. With a lightweight, lightweight circuitry, it is also designed to provide protection against damage. Rechargeable polarity and IC features are available when the system is turned off. Temperature is too high
