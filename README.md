@@ -1,2 +1,18 @@
-# KB-Motor-KidBright32
-Kidbright Chain 2-CH 1A DC Motor Driver is a board for two small DC motor motors. The I2C mode supports up to 8 address settings. The Kidbright Chain 2-CH 1A DC Motor Driver can control the speed and direction of rotation of the DC meter using the DRV8830 IC. Have the ability to drive The DC Motor Driver has been developed to meet the needs of a compact, compact design. Easy operation and durability by the Kidbright Chain 2-CH 1A DC Motor Driver is ideal for students or beginners to fabricate robots. With a lightweight, lightweight circuitry, it is also designed to provide protection against damage. Rechargeable polarity and IC features are available when the system is turned off. Temperature is too high
+# KB-Motor-Driver
+Kidbright Chain 2-CH 1A DC Motor Driver โดยชิป DRV8830 I2C DC motor driver MiniMoto เหมาะสำหรับการขับขี่      
+หุ่นยนต์ขนาดเล็ก มีผล 2.7V ถึง 6.8V และช่วงเวลาที่ จำกัด ของ 1A เป็น DRV8830 เป็นขนาดเล็กของตัวควบคุมมากกว่า       
+นอกเหนือจากประโยชน์ของการควบคุมโดย I2C ซึ่งช่วยเพิ่มเส้นข้อมูลและการประมวลผลบน CPU ที่จะใช้สำหรับงานอื่น ๆ      
+MiniMoto มีแรงดันเอาต์พุตสูงสุดของไดรเวอร์มอเตอร์กระแสไฟฟ้า
+ 
+
+คุณสมบัติ
+
+* H-Bridge Voltage-Controlled Motor Driver
+* 1A Peak Drive Current
+* 2.7V to 6.8V Operating Supply Voltage Range
+* Serial I2C Compatible Interface
+* Dataline Supports up to 9 MiniMotos
+
+### Other 
+
+Looking for KB Chain 2-CH 1A DC Motor Driver [Shop Now](https://www.kidbright.io/product-page/kb-chain-2-ch-1a-dc-motor-driver)
