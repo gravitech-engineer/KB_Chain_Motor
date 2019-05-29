@@ -1,5 +1,5 @@
-Blockly.Msg.DRV8830_SPEED_TITLE = "DRV8830 Speed";
-Blockly.Msg.DRV8830_SPEED_TOOLTIP = "Set DRV8830 speed 0 to 100% (negative speed for reverse direction)";
+Blockly.Msg.DRV8830_SPEED_TITLE = "KB Motor Speed";
+Blockly.Msg.DRV8830_SPEED_TOOLTIP = "Set KB Motor speed 0 to 100% (negative speed for reverse direction)";
 Blockly.Msg.DRV8830_SPEED_HELPURL = "";
 
 Blockly.Msg.MOTOR = "Motor";

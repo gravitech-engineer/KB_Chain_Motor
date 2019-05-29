@@ -1,5 +1,5 @@
-Blockly.Msg.DRV8830_SPEED_TITLE = "ความเร็ว DRV8830";
-Blockly.Msg.DRV8830_SPEED_TOOLTIP = "ตั้งค่าความเร็ว DRV8830 0 ถึง 100% (ค่าความเร็วติดลบสำหรับถอยหลัง)";
+Blockly.Msg.DRV8830_SPEED_TITLE = "ความเร็ว KB Motor";
+Blockly.Msg.DRV8830_SPEED_TOOLTIP = "ตั้งค่าความเร็ว KB Motor 0 ถึง 100% (ค่าความเร็วติดลบสำหรับถอยหลัง)";
 Blockly.Msg.DRV8830_SPEED_HELPURL = "";
 
 Blockly.Msg.MOTOR = "มอเตอร์";
